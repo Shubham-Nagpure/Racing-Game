@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Shubham-Nagpure/Racing-Game/static/css/main.2d443f84.css",
+    "main.js": "/Shubham-Nagpure/Racing-Game/static/js/main.2a03fa07.js",
+    "index.html": "/Shubham-Nagpure/Racing-Game/index.html",
+    "main.2d443f84.css.map": "/Shubham-Nagpure/Racing-Game/static/css/main.2d443f84.css.map",
+    "main.2a03fa07.js.map": "/Shubham-Nagpure/Racing-Game/static/js/main.2a03fa07.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2d443f84.css",
+    "static/js/main.2a03fa07.js"
+  ]
+}
